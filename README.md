@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Set up
 
-Please **fork** and **clone** this repository.  There are instructions for how to do that (and more), in the first half of the syllabus's ["Making a Pull Request"](https://codeyourfuture.github.io/syllabus-master/others/making-a-pull-request.html)
+Please **fork** and **clone** this repository.
 
 Then navigate to the correct directory using the command line.
 
