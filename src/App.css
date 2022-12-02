@@ -1,7 +1,7 @@
 .app {
   height: 100vh;
   width: 100vw;
-  transition: background-color 1s ease-in;
+
 }
 
 .app__header, 
@@ -19,15 +19,15 @@
 
 /*  Search bar */
 .app__header{
-  background-color: rgb(95, 95, 227);
-  padding: 20px;
-  width:100%;
+
+transition: all 1.5s ease-in-out;
+padding: 20px;
 }
 
 
 /* Current weather */
 .app__main {
-  background-color: rgb(87, 177, 242);
+  transition: all 1.5s ease-in-out;
   height: 100%;
   
 
